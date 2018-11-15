@@ -51,25 +51,7 @@ export var Data = [
         ],
         "status": true
     },
-    {
-        "id": "D",
-        "value": 3,
-        "page": "/SystemRegister/DemandAnalysis",
-        "name": "การวิเคราะห์ความต้องการ",
-        "item": [
-            {
-                "id": "D1",
-                "page": "/SystemRegister/SystemRequirementSpecification",
-                "name": "System Requirement Specification"
-            },
-            {
-                "id": "D2",
-                "page": "/SystemRegister/Fact-FindingTechnics",
-                "name": "วิธีการ Fact-Finding Technics"
-            }
-        ],
-        "status": true
-    },
+    
     {
         "id": "E",
         "value": 4,
@@ -128,14 +110,7 @@ export var Data = [
         ],
         "status": true
     },
-    {
-        "id": "G",
-        "value": 6,
-        "page": "/SystemRegister/OutputDesign",
-        "name": "การออกแบบรายงาน",
-        "item": [],
-        "status": false
-    },
+    
     {
         "id": "H",
         "value": 7,

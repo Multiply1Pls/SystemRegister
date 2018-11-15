@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import ReactMarkdown from 'react-markdown'
 import README from './README.md'
 import ContextDiagramImg from '../../../img/context_diagram.svg'
+import './styles.css'
 
 class ContextDiagram extends Component {
   constructor(props) {
