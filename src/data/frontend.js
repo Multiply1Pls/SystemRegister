@@ -3,7 +3,7 @@ export var Data = [
     {
         "id": "A",
         "value": 0,
-        "page": "/SystemRigister/",
+        "page": "/SystemRegister/",
         "name": "กลุ่ม 5 ระบบการลงทะเบียน Online",
         "item": [],
         "status": false
@@ -11,7 +11,7 @@ export var Data = [
     {
         "id": "B",
         "value": 1,
-        "page": "/SystemRigister/Authorities",
+        "page": "/SystemRegister/Authorities",
         "name": "คณะผู้จัดทำ",
         "item": [],
         "status": false,
@@ -20,32 +20,32 @@ export var Data = [
     {
         "id": "C",
         "value": 2,
-        "page": "/SystemRigister/ProblemDetermination",
+        "page": "/SystemRegister/ProblemDetermination",
         "name": "การกำหนดปัญหาและการศึกษาความเป็นไปได้",
         "item": [
             {
                 "id": "C1",
-                "page": "/SystemRigister/SystemRequest",
+                "page": "/SystemRegister/SystemRequest",
                 "name": "System Request"
             },
             {
                 "id": "C2",
-                "page": "/SystemRigister/Fishbone",
+                "page": "/SystemRegister/Fishbone",
                 "name": "แผนภูมิก้างปลา"
             },
             {
                 "id": "C3",
-                "page": "/SystemRigister/SystemScopeDocument",
+                "page": "/SystemRegister/SystemScopeDocument",
                 "name": "System Scope Document"
             },
             {
                 "id": "C4",
-                "page": "/SystemRigister/ProjectSchedule",
+                "page": "/SystemRegister/ProjectSchedule",
                 "name": "Project Schedule"
             },
             {
                 "id": "C5",
-                "page": "/SystemRigister/FeasibilityStudy",
+                "page": "/SystemRegister/FeasibilityStudy",
                 "name": "Feasibility Study"
             }
         ],
@@ -54,17 +54,17 @@ export var Data = [
     {
         "id": "D",
         "value": 3,
-        "page": "/SystemRigister/DemandAnalysis",
+        "page": "/SystemRegister/DemandAnalysis",
         "name": "การวิเคราะห์ความต้องการ",
         "item": [
             {
                 "id": "D1",
-                "page": "/SystemRigister/SystemRequirementSpecification",
+                "page": "/SystemRegister/SystemRequirementSpecification",
                 "name": "System Requirement Specification"
             },
             {
                 "id": "D2",
-                "page": "/SystemRigister/Fact-FindingTechnics",
+                "page": "/SystemRegister/Fact-FindingTechnics",
                 "name": "วิธีการ Fact-Finding Technics"
             }
         ],
@@ -73,27 +73,27 @@ export var Data = [
     {
         "id": "E",
         "value": 4,
-        "page": "/SystemRigister/ProcessModeling",
+        "page": "/SystemRegister/ProcessModeling",
         "name": "แบบจำลองกระบวนการ",
         "item": [
             {
                 "id": "E1",
-                "page": "/SystemRigister/ContextDiagram",
+                "page": "/SystemRegister/ContextDiagram",
                 "name": "Context Diagram"
             },
             {
                 "id": "E2",
-                "page": "/SystemRigister/DFDDiagram",
+                "page": "/SystemRegister/DFDDiagram",
                 "name": "DFD Diagram"
             },
             {
                 "id": "E3",
-                "page": "/SystemRigister/ProcessDescription",
+                "page": "/SystemRegister/ProcessDescription",
                 "name": "Process Description"
             },
             {
                 "id": "E4",
-                "page": "/SystemRigister/ProcessingDescription",
+                "page": "/SystemRegister/ProcessingDescription",
                 "name": "Processing Description"
             }
         ],
@@ -102,27 +102,27 @@ export var Data = [
     {
         "id": "F",
         "value": 5,
-        "page": "/SystemRigister/DataModel",
+        "page": "/SystemRegister/DataModel",
         "name": "Data Model",
         "item": [
             {
                 "id": "F1",
-                "page": "/SystemRigister/ERDiagram",
+                "page": "/SystemRegister/ERDiagram",
                 "name": "ER Diagram"
             },
             {
                 "id": "F2",
-                "page": "/SystemRigister/RelationSchema",
+                "page": "/SystemRegister/RelationSchema",
                 "name": "Relation Schema"
             },
             {
                 "id": "F3",
-                "page": "/SystemRigister/DataDictionary",
+                "page": "/SystemRegister/DataDictionary",
                 "name": "Data Dictionary"
             },
             {
                 "id": "F4",
-                "page": "/SystemRigister/Normalized",
+                "page": "/SystemRegister/Normalized",
                 "name": "Normalized"
             }
         ],
@@ -131,7 +131,7 @@ export var Data = [
     {
         "id": "G",
         "value": 6,
-        "page": "/SystemRigister/OutputDesign",
+        "page": "/SystemRegister/OutputDesign",
         "name": "การออกแบบรายงาน",
         "item": [],
         "status": false
@@ -139,7 +139,7 @@ export var Data = [
     {
         "id": "H",
         "value": 7,
-        "page": "/SystemRigister/InputDesign",
+        "page": "/SystemRegister/InputDesign",
         "name": "ประกอบด้วยหน้าที่ป้อนข้อมูล",
         "item": [],
         "status": false

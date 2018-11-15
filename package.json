@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Multiply1Pls/SystemRegister/issues"
   },
-  "homepage": "https://github.com/Multiply1Pls/SystemRegister.git",
+  "homepage": "https://multiply1pls.github.io/SystemRegister/",
   "dependencies": {
     "@material-ui/core": "^3.2.1",
     "@material-ui/icons": "^3.0.1",

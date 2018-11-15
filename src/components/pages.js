@@ -14,7 +14,7 @@ import {
 
 export const Pages = () => (
     <Switch>
-        <Route exact path="/" component={Home} />
+        {/* <Route exact path="/" component={Home} /> */}
         <Route exact path="/SystemRegister/" component={Home} />
 
         <Route path="/SystemRegister/Authorities" component={Authorities} />
